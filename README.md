@@ -1,7 +1,10 @@
-# gitblog
+# Gitblog
+
 My blog and unfinished thoughts using issues and GitHub Actions. 
 The style is inspired by [yihong0618](https://github.com/yihong0618)
+
 ---
+
 # 友情链接
 ---
 

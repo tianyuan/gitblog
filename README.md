@@ -8,9 +8,12 @@ The style is inspired by [yihong0618](https://github.com/yihong0618)
 # 友情链接
 ---
 
-| author     | title                                                                            |
-| ---------- | -------------------------------------------------------------------------------- |
-| yihong0618 | [如何用一个仓库记录自己的一年](https://github.com/yihong0618/gitblog/issues/209) |
+
+| author                                      | title                                                                            |
+| ------------------------------------------- | -------------------------------------------------------------------------------- |
+| [yihong0618](https://github.com/yihong0618) | [我转行程序员的经历](https://github.com/yihong0618/gitblog/issues/186)           |
+| [yihong0618](https://github.com/yihong0618) | [如何用一个仓库记录自己的一年](https://github.com/yihong0618/gitblog/issues/209) |
+
 
 
 # 置顶文章

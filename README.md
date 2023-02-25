@@ -13,6 +13,7 @@ The style is inspired by [yihong0618](https://github.com/yihong0618)
 | ------------------------------------------- | -------------------------------------------------------------------------------- |
 | [yihong0618](https://github.com/yihong0618) | [我转行程序员的经历](https://github.com/yihong0618/gitblog/issues/186)           |
 | [yihong0618](https://github.com/yihong0618) | [如何用一个仓库记录自己的一年](https://github.com/yihong0618/gitblog/issues/209) |
+| [izackwu](https://github.com/izackwu)       | [自学计算机科学](https://book.douban.com/review/5833080/)|
 
 
 

@@ -20,13 +20,14 @@ The style is inspired by [yihong0618](https://github.com/yihong0618)
 # 置顶文章
 ---
 
-| Title | One comment |
-| ----- | ----------- |
-| [Stop Procrastinating With Note-Taking Apps Like Obsidian](https://www.youtube.com/watch?v=baKCC2uTbRc)      |  VIDEO OF THE YEAR 2023 for all of us productivity "masters".        |
+
 
 
 # 置顶Videos
-
+---
+| Title | One comment |
+| ----- | ----------- |
+| [Stop Procrastinating With Note-Taking Apps Like Obsidian](https://www.youtube.com/watch?v=baKCC2uTbRc)      |  VIDEO OF THE YEAR 2023 for all of us productivity "masters".        |``
 
 
 # 最近更新

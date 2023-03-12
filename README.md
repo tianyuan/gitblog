@@ -1,4 +1,4 @@
-# Gitblog
+# Gitblog 2023
 
 My blog and unfinished thoughts using issues and GitHub Actions. 
 The style is inspired by [yihong0618](https://github.com/yihong0618)

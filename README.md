@@ -15,10 +15,6 @@ The style is inspired by [yihong0618](https://github.com/yihong0618)
 
 ---
 
-# 置顶文章
-
-
----
 
 # 置顶Videos
 
@@ -26,34 +22,5 @@ The style is inspired by [yihong0618](https://github.com/yihong0618)
 | ----- | ----------- |
 | [Stop Procrastinating With Note-Taking Apps Like Obsidian](https://www.youtube.com/watch?v=baKCC2uTbRc)      |  VIDEO OF THE YEAR 2023 for all of us productivity "masters".        |``
 
----
 
-
-
-# 最近更新
----
-
-
-# 一些计划
----
-
-
-
-# 一些成果
----
-
-
-
-# 读书笔记
----
-
-
-
-
-# 素心札记
----
-
-
-# To-Do
----
 
